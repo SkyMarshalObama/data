@@ -858,9 +858,9 @@
     "virtual": false
   },
   {
-    "icao": "VMED",
-    "name": "United States Marine Corps VMFA-533",
-    "callsign": "MARINE ECHO DELTA",
+    "icao": "VMWK",
+    "name": "United States Marine Corps VMFA-224",
+    "callsign": "MARINE Whiskey Kilo",
     "virtual": false
   },
   {
@@ -870,75 +870,9 @@
     "virtual": false
   },
   {
-    "icao": "WRLRD",
-    "name": "United States Marine Corps VMFAT-501/533",
-    "callsign": "WARLORD",
-    "virtual": false
-  },
-  {
-    "icao": "SWEDE",
-    "name": "United States Marine Corps VMFAT-501",
-    "callsign": "SWEDE",
-    "virtual": false
-  },
-  {
-    "icao": "HAWK",
-    "name": "United States Navy",
-    "callsign": "HAWK",
-    "virtual": false
-  },
-  {
-    "icao": "VCTRY",
-    "name": "United States Navy VFA-103",
-    "callsign": "VICTORY",
-    "virtual": false
-  },
-  {
-    "icao": "SLAYR",
-    "name": "United States Navy HSC-11",
-    "callsign": "SLAYER",
-    "virtual": false
-  },
-  {
-    "icao": "BUMPY",
-    "name": "United States Navy VQ-3",
-    "callsign": "BUMPY",
-    "virtual": false
-  },
-  {
-    "icao": "NOMAD",
-    "name": "United States Navy VR-62",
-    "callsign": "NOMAD",
-    "virtual": false
-  },
-  {
-    "icao": "MADFX",
-    "name": "United States Navy VP-5",
-    "callsign": "MAD FOX",
-    "virtual": false
-  },
-  {
-    "icao": "CDFLE",
-    "name": "United States Navy VP-5",
-    "callsign": "CARDFILE",
-    "virtual": false
-  },
-  {
-    "icao": "BISON",
-    "name": "United States Navy VRM-40",
-    "callsign": "BISON",
-    "virtual": false
-  },
-  {
     "icao": "VVBA",
     "name": "United States Navy Flight Demonstration Squadron",
     "callsign": "NAVY BLUE ANGEL",
-    "virtual": false
-  },
-  {
-    "icao": "BERT",
-    "name": "United States Navy Flight Demonstration Squadron",
-    "callsign": "ALBERT",
     "virtual": false
   },
   {
